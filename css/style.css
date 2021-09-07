@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+  }
+  body{
+      font-family: 'oswald';
+      font-family: sans-serif;
+  }
+   h1{
+    font-size: 48px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    }
+    h5{
+        color: black;
+        font-size: 20px;
+        text-transform: capitalize;
+    }
+    p{
+        color: black;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    
+  .half{
+      color: orange;
+  }
+  .btn-hire{
+      color: black;
+      text-transform: uppercase;
+      padding: 10px;
+      background-image: linear-gradient(yellow,orange);
+      border: 0;
+      border-radius: 5px;
+      margin-top: 30px;
+  }
+  .flex{
+      display: flex;
+      justify-content: space-between;
+  }
+  .flexible-container{
+      padding: 50px;
+  }
+  .img-1{
+      width: 55%;
+  }
+  .div-half{
+      width: 50%;
+      padding: 40px;
+  }
+  .side{
+      margin-left: 30px;
+      
+  }
+  .img-2{
+      width: 55%;
+  }
