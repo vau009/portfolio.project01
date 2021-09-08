@@ -56,3 +56,19 @@
   .img-2{
       width: 55%;
   }
+.experience{
+      display: flex;
+  }
+  .half-experience{
+      width: 50%;
+      margin: 40px;
+      padding: 40px 30px;
+      border-left: 10px solid;
+      border-image: linear-gradient(green, blue);
+      border-image-slice: 1;
+      border-radius: 10px;
+      box-shadow: 5px 5px 10px gray;
+  }
+  .footer{
+      text-align: center;
+  }
